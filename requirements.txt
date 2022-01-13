@@ -1,2 +1,2 @@
-Pillow==7.1.2
+Pillow==9.0.0
 XlsxWriter==1.2.8
